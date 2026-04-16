@@ -45,7 +45,7 @@
 
 如果你在 Android 浏览器中遇到扩展弹窗不适配、空白页等情况，可以先试用 Bookmarklet 方案：
 
-1. 打开 `docs/bookmarklet-template.js`，按注释替换 `TODO` 的业务逻辑。
+1. 打开 `docs/bookmarklet-template.js`（已内置 Phase 1 单页 MVP 逻辑）。
 2. 将脚本压缩成单行，并在前面加上 `javascript:`。
 3. 在手机浏览器保存为书签 URL，进入豆瓣帖子页后点击该书签运行。
 
